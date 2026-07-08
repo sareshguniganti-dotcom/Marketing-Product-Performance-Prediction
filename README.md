@@ -132,15 +132,7 @@ pip install -r requirements.txt
 ---
 
 ## Author
+Saresh Guniganti
 
-**Saresh Guniganti**
 
-Master's Student in Data Science
 
-University of Europe for Applied Sciences
-
----
-
-## License
-
-This project is developed for academic purposes only.
